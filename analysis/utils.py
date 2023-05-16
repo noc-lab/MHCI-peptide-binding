@@ -1,15 +1,8 @@
 
 import numpy as np
 import os
-
-
 import pandas as pd
 
-
-alphabet = '-ABCDEFGHIKLMNPQRSTUVWXYZ'
-
-
-    
 def calculate_ppv(df_hits, df_decoys, scores, num_hits, num_decoys, peptide_column, num_iter):
     """Calculates list of ppv scores of length num_iter
         df_hits : pd.Dataframe consisting of hits
