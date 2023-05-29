@@ -11,4 +11,12 @@ The training and test sets used in this study can be found at: https://services.
 ## Pretrained Models
 The pretrained models utilized in this research are available at: https://github.com/facebookresearch/esm. 
 
+The checkpoints of our fine-tuned models can be downloaded at:
+
+[ESM1b (domain adaptation + fine-tuning)](https://drive.google.com/drive/folders/1Vxug83pC3DL7pug24f5UpqRPJqYCbt3K?usp=share_link)
+
+[ESM2-650M (domain adaptation + fine-tuning)](https://drive.google.com/drive/folders/1WYWI3NQzKmzroo1SSrpaV5hDqZhgf7PO?usp=share_link)
+
+[ESM2-3B (domain adaptation + fine-tuning)](https://drive.google.com/drive/folders/1X6hyZFRRJi1rimdoh0_iPn5c9AfbItWd?usp=share_link)
+
 
