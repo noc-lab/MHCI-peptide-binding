@@ -126,7 +126,7 @@ class our_esm(BertForSequenceClassification):
 
 
 
-model=our_esm.from_pretrained('results_13mAllSingle_prot_bert_esm_5e-5_ep2selection15pad/checkpoint-45972/')#.cuda()   # load the model checkpoint
+model=our_esm.from_pretrained('results_13mAllSingle_prot_bert_esm_5e-5_ep2selection15pad/checkpoint-45972/')#.cuda()   # load the model checkpoint, which can be downloaded through the links in this repo
 model.eval()
 
 
