@@ -19,4 +19,4 @@ The checkpoints of our fine-tuned models can be downloaded at:
 
 [ESM2-3B (domain adaptation + fine-tuning)](https://drive.google.com/drive/folders/1X6hyZFRRJi1rimdoh0_iPn5c9AfbItWd?usp=share_link)
 
-Here is a [demo](https://github.com/noc-lab/MHCI-peptide-binding/blob/main/esm_demo.py) to predict the binding probability of an MHC-peptide sequence pair. To efficiently run the prediction in a batch manner, please refer to "esm_classification.py", which was used by us to predict the whole test set in our paper.
+Here is a [demo](https://github.com/noc-lab/MHCI-peptide-binding/blob/main/esm_demo.py) to predict the binding probability of an MHC-peptide sequence pair. To efficiently run the prediction in a batch manner, please refer to "codes/esm_classification.py", which was used by us to predict the whole test set in our paper.
