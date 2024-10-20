@@ -13,10 +13,10 @@ The pretrained models utilized in this research are available at: https://github
 
 The checkpoints of our fine-tuned models can be downloaded at:
 
-[ESM1b (domain adaptation + fine-tuning)](https://drive.google.com/drive/folders/1Vxug83pC3DL7pug24f5UpqRPJqYCbt3K?usp=share_link)
+[ESM1b (domain adaptation + fine-tuning)](https://drive.google.com/drive/folders/1HzM6ZGY8FeCsa1fOY2PDsEZlSLWlu-mO?usp=sharing)
 
-[ESM2-650M (domain adaptation + fine-tuning)](https://drive.google.com/drive/folders/1WYWI3NQzKmzroo1SSrpaV5hDqZhgf7PO?usp=share_link)
+[ESM2-650M (domain adaptation + fine-tuning)](https://drive.google.com/drive/folders/1Z-V-0BVzFi7ScxNDIoxEgq9LaTW6pIBw?usp=sharing)
 
-[ESM2-3B (domain adaptation + fine-tuning)](https://drive.google.com/drive/folders/1X6hyZFRRJi1rimdoh0_iPn5c9AfbItWd?usp=share_link)
+[ESM2-3B (domain adaptation + fine-tuning)](https://drive.google.com/drive/folders/1kXCfbs6JyCOXkvqmoRfZrdmDRv29c5zj?usp=sharing)
 
 Here is a [demo](https://github.com/noc-lab/MHCI-peptide-binding/blob/main/esm_demo.py) to predict the binding probability of an MHC-peptide sequence pair. To efficiently run the prediction in a batch manner, please refer to "codes/esm_classification.py", which was used by us to predict the whole test set in our paper.
